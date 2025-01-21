@@ -1,11 +1,11 @@
 <template>
   <header>
     <div class="container">
-      <div class="flex items-end mb-4">
+      <div class="lg:flex items-end mb-4">
         <div>
           <img src="@/assets/avatar.jpg" class="size-32">
         </div>
-        <div class="ml-8">
+        <div class="lg:ml-8 lg:mt-0 mt-4">
           <h1 class="text-6xl	font-bold">Sina Sharifzade</h1>
           <p>{{ subtitle }}</p>
         </div>

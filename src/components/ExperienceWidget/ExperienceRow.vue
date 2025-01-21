@@ -1,6 +1,6 @@
 <template>
-  <div class="flex">
-    <div class="flex-none w-2/6">
+  <div class="lg:flex">
+    <div class="lg:flex-none lg:w-2/6">
       <ul class="flex space-x-2 print:space-x-1">
         <li>{{ from }}</li>
         <li>-</li>

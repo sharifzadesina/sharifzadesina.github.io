@@ -1,6 +1,6 @@
 <template>
-  <div class="flex">
-    <div class="flex-none w-2/6"></div>
+  <div class="lg:flex">
+    <div class="lg:flex-none lg:w-2/6"></div>
     <div>
       <h2 class="font-semibold text-lg print:text-base">
         <a :href="github" target="_blank">

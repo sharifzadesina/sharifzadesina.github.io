@@ -1,5 +1,5 @@
 <template>
-  <ul class="flex items-center">
+  <ul class="lg:flex items-center">
     <SocialNetworkListItem
       class="bg-slate-600"
       icon="fa-solid fa-envelope"
