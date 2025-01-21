@@ -9,7 +9,7 @@
     <SocialNetworkListItem
       class="bg-cyan-600"
       icon="fa-solid fa-mobile"
-      link="call:+989146437614"
+      link="tel:+989146437614"
       label="+98-914-643-7614"
     />
     <SocialNetworkListItem
