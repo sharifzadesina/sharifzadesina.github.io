@@ -9,7 +9,7 @@
     </div>
     <div>
       <h2 class="font-semibold text-lg print:text-base">{{ title }}</h2>
-      <p class="font-light text-lg print:text-base">{{ subtitle }}</p>
+      <p class="font-light">{{ subtitle }}</p>
       <div>
         <slot></slot>
       </div>

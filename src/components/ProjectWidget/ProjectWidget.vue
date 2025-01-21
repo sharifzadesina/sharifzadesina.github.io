@@ -1,7 +1,7 @@
 <template>
   <Widget>
     <WidgetTitle label="Projects" icon="fa-solid fa-folder" />
-    <WidgetBody class="space-y-4">
+    <WidgetBody class="space-y-2">
       <ProjectRow title="sanitizer" subtitle="Sanitization library for PHP and Laravel" github="https://github.com/sharifzadesina">
         This library is usable with both Laravel and pure PHP,
         It helps to filter request input before using them.

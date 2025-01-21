@@ -1,5 +1,5 @@
 <template>
-  <header class="my-8">
+  <header>
     <div class="container">
       <div class="flex items-end mb-4">
         <div>
@@ -7,7 +7,7 @@
         </div>
         <div class="ml-8">
           <h1 class="text-6xl	font-bold">Sina Sharifzade</h1>
-          <p>Full-Stack Web Developer</p>
+          <p>{{ subtitle }}</p>
         </div>
       </div>
       <Navbar />
@@ -17,4 +17,9 @@
 
 <script setup lang="ts">
 import Navbar from '@/components/TheNavbar.vue';
+
+interface Props {
+  subtitle: string,
+}
+defineProps<Props>();
 </script>

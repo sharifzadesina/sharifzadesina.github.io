@@ -1,7 +1,7 @@
 <template>
   <p>
-    Highly skilled programmer with more than 5 years in software design,
-    development, and integration. Professional skills in PHP and Laravel,
+    Highly skilled programmer with more than 10 years in software design,
+    development, and integration. Professional skills in PHP and JavaScript,
     Advanced knowledge of enterprise-level application architecture and
     management. Excellent problem-solving capability.
   </p>

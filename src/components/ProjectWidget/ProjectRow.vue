@@ -7,7 +7,7 @@
           {{ title }}<i class="fa-brands fa-github ms-2 align-middle"></i>
         </a>
       </h2>
-      <p class="font-light text-lg print:text-base">{{ subtitle }}</p>
+      <p class="font-light">{{ subtitle }}</p>
       <div>
         <slot></slot>
       </div>
